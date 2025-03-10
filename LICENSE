@@ -19,3 +19,18 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## **Additional Notice Regarding Data Usage**
+
+This repository may contain anonymized data. Although best practices have been
+applied to anonymize the data, absolute anonymization cannot be guaranteed.
+Users must ensure that their use of the data complies with applicable privacy
+laws and regulations.
+
+It is strictly prohibited to attempt to re-identify individuals using these
+data, combine them with other sources to deduce personal information, or use
+them for unlawful or unethical purposes.
+
+The authors or copyright holders bear no responsibility for any misuse of the
+data or any legal consequences arising from its use. Users assume full
+liability for their compliance with data protection laws.
